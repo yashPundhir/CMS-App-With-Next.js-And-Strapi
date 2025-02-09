@@ -5,7 +5,7 @@
 ### Popular UI Component Library
 
 - [Origin UI](https://originui.com/)
-- [Next UI](https://nextui.org/)
+- [Hero UI](https://www.heroui.com/)
 - [Motion Primitives](https://motion-primitives.com/)
 - [Aceternity UI](https://ui.aceternity.com/)
 - [Magic UI](https://magicui.design/)
